@@ -8,4 +8,10 @@
 
 
  Please Create this on Your site using this Command:- npm install 
+ 
+  Username:-Admin
+ 
+  Password:-Admin
+ 
+ 
 
