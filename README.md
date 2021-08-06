@@ -12,6 +12,8 @@
   Username:-Admin
  
   Password:-Admin
+  
+  In the Data Folder  there is a fake api of json and used json server
  
  
 
