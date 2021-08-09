@@ -13,7 +13,8 @@
  
   Password:-Admin
   
-  In the Data Folder  there is a fake api of json and used json server
+  In the Data Folder  there is a fake api of json and used json server run it using (json-server --watch db.json)
+    
  
  
 
