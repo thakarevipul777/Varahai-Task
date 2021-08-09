@@ -15,7 +15,7 @@
   
   In the Data Folder  there is a fake api of json and used json server run it using (json-server --watch db.json)
   
-  While Adding image Please put the path of any image from google
+  While Adding image put the path of any image from google
     
  
  
